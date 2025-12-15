@@ -1,0 +1,21 @@
+Gatsby Plugins Used:
+- gatsby-plugin-image
+- gatsby-plugin-react-helmet
+- gatsby-source-filesystem
+- gatsby-transformer-sharp
+- gatsby-plugin-sharp
+- gatsby-plugin-manifest
+
+Main Page Features:
+- Home: Hero section with profile, skills, and social links (WordPress-powered)
+- Blog: List and detail pages for posts (fetched from WordPress REST API)
+- About: Author introduction and skills
+- Projects: Portfolio/project showcase
+- Contact: Contact information and/or form
+- Comments: GitHub Discussions (Giscus) integration
+- SEO: Meta tags via react-helmet
+- Fully responsive design
+- Static site generation (SSG) for all pages
+
+Data Source:
+- WordPress REST API (supports both WordPress.com and self-hosted with ACF) 
